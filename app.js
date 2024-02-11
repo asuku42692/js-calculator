@@ -6,7 +6,7 @@ function print(value) {
     input.value += value;
 
     if (input.value.includes("c")) {
-        input.value = "";
+        input.value = " ";
     }
 
 }
